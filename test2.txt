@@ -1,1 +1,1 @@
-Test file is now edited by branch2
+Test file is now edited by ---- branch2
